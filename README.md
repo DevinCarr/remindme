@@ -5,6 +5,9 @@ A simple script to open a video after a time delay to remind me of a small task.
 
 `gcc remindme.c -o remindme`
 
+# Running
+
+I typically just run it as a backgrounded process: `$ ./remindme -t 30 &`
 # Help
 
 ```
